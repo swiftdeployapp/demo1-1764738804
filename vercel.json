@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "Demo1",
+  "builds": [
+    {
+      "src": "/**",
+      "use": "@vercel/static"
+    }
+  ]
+}
